@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Installation Configuration</h1>
+<h1>osTicket - Lifecycle</h1>
 This lab is a showcase of a day-today basis osTicket life cycle and what happends on a work day.<br/>
 * This lab is done using a virtual machine in Azure. Here are my <a href="google.com" styl>lab</a> showcases *
 

@@ -82,7 +82,7 @@ These will help you go back and forth between diffferent pages quicker.<br>
   <img width="90%" alt="Screenshot 2024-10-28 at 4 32 11 PM" src="https://github.com/user-attachments/assets/30e45f9f-7206-405d-9c06-c24beafce028">
 </p>
 <h3>Scenario 2</h3>
-<p>Coby submits a ticket about having problem with Adobe software access. Alex as a helpdesk will supprt Coby to gather more information to slove the problem.</p>
+<p>Coby submits a ticket about having problem with Adobe software access. Alex as a helpdesk will support Coby to gather more information and solve the problem.</p>
 
 - Coby submitting the ticket (with little to no information about the problem)
 <p>

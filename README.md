@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Lifecycle</h1>
-This lab is a showcase of a day-today basis osTicket life cycle and what happends on a work day.<br/>
+This lab is a showcase of a day-to-day basis osTicket life cycle and what happends on an average work day.<br/>
 * This lab is done using a virtual machine in Azure. Here are my <a href="google.com" styl>lab</a> showcases *
 
 <h2>Environments and Technologies Used</h2>
@@ -59,7 +59,6 @@ These will help you go back and forth between diffferent pages quicker.<br>
 
 - Alex observing and assigning ticket's properties (Priority, Department, SLA, Assign to)
 <p>
-  <img width="90%" alt="Screenshot 2024-10-28 at 3 44 54 PM" src="https://github.com/user-attachments/assets/29ab021e-fb93-49e9-b9a0-466cc655f15f">
   <img width="90%" alt="Screenshot 2024-10-28 at 3 44 54 PM" src="https://github.com/user-attachments/assets/03c3d9c2-4547-4a9d-bbeb-bebc55f4cf15">
   <img width="90%" alt="Screenshot 2024-10-28 at 3 56 12 PM" src="https://github.com/user-attachments/assets/e297be18-9bc2-4761-9b39-92e1c55346e4">
   <img width="90%" alt="Screenshot 2024-10-28 at 4 07 58 PM" src="https://github.com/user-attachments/assets/2883fd94-6b56-47eb-824e-aafb092e37d5">
@@ -87,8 +86,31 @@ These will help you go back and forth between diffferent pages quicker.<br>
 
 - Coby submitting the ticket (with little to no information about the problem)
 <p>
-  
+  <img width="90%" alt="Screenshot 2024-10-28 at 1 50 59 PM" src="https://github.com/user-attachments/assets/751bbdc5-7759-4a1c-a0a6-ac0d89c0ed39">
+<img width="90%" alt="Screenshot 2024-10-29 at 9 28 32 AM" src="https://github.com/user-attachments/assets/76b47988-1114-4613-b001-9fb6f71cf4f6">
 </p>
 
+- Alex observing and assigning ticket's properties (Priority, Department, SLA, Assign to)
+<p>
+  <img width="90%" alt="Screenshot 2024-10-29 at 9 29 44 AM" src="https://github.com/user-attachments/assets/ff20ce2c-e862-4878-a54c-ff6fa7cedf73">
+  <img width="90%" alt="Screenshot 2024-10-29 at 9 33 01 AM" src="https://github.com/user-attachments/assets/2f133275-a4d0-421d-932f-ad2ef9327833">
+</p>
+
+- Alex reaching out to the customer to gather more information about the problem
+<p>
+  <img width="90%" alt="Screenshot 2024-10-29 at 9 35 39 AM" src="https://github.com/user-attachments/assets/817c8626-5db9-4869-a082-61b399a1ea8a">
+</p>
+
+- Alex solving the problem and closing the ticket
+<p>
+  <img width="90%" alt="Screenshot 2024-10-29 at 9 40 40 AM" src="https://github.com/user-attachments/assets/62dcfa3c-743a-46ff-9df2-635320f89342">
+  <img width="90%" alt="Screenshot 2024-10-29 at 9 42 05 AM" src="https://github.com/user-attachments/assets/6a2767fa-d8d0-4741-b29d-14ddb60213bd">
+</p>
+
+- Observing the closed ticket with Toni's Admin account
+<p>
+  <img width="90%" alt="Screenshot 2024-10-29 at 9 44 35 AM" src="https://github.com/user-attachments/assets/da747952-b0d9-4aa2-8a49-71e9aaffb704">
+  <img width="90%" alt="Screenshot 2024-10-29 at 9 45 20 AM" src="https://github.com/user-attachments/assets/89d0a386-dd76-46f1-8a70-10706b68d65e">
+</p>
 
 

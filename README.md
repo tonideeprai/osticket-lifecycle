@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Lifecycle</h1>
-This lab is a showcase of a day-to-day basis osTicket life cycle and what happends on an average work day.<br/>
+This lab means to show you scenarios that can happen on an average work day with osTicket life cycle.<br/>
 * This lab is done using a virtual machine in Azure. Here are my <a href="google.com" styl>lab</a> showcases *
 
 <h2>Environments and Technologies Used</h2>
